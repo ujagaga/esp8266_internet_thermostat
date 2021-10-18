@@ -2,10 +2,10 @@
 #include "email.h"
 
 #define SMTP_PORT       465
-#define SENDER_EMAIL    "ohanaberar@gmail.com"
-#define SENDER_PASSWORD "umoymlkxasewkgqr"
+#define SENDER_EMAIL    "SenderAddr@gmail.com"
+#define SENDER_PASSWORD "yourAppPass"
 #define SMTP_SERVER     "smtp.gmail.com"
-#define RECIPIENT       "ujagaga@gmail.com"
+#define RECIPIENT       "RecipientAddr@gmail.com"
 #define SUBJECT         "Web Thermostat IP Change"
 
 
